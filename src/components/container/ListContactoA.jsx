@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types';
-import Conectado from './Conectado'
+import Conectado from './ConectadoB'
 
 const ListContacto = ({ nombre, apellido, email, conectado }) => {
 

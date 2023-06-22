@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ListContacto from './components/container/ListContacto';
+import ListContacto from './components/container/ListContactoA';
 
 function App() {
   return (
